@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 744
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0438_T_001-0552a> 
 #+PROPERTY: JUAN 1
 ¶
@@ -373,7 +373,7 @@ No. 744¶
 
 維¶
 耶離國諸王、大臣、長者、居士、國人無數，五體¶
-作禮，自投佛足，歸命三寶，香花伎樂，繒蓋幢¶
+作禮，自捉佛足，歸命三寶，香花伎樂，繒蓋幢¶
 幡，奉迎世尊華遍覆地，尋路供養，日日不絕，¶
 至于國城。佛與聖眾、天、龍、鬼神往于城門，以¶
 金色臂德相之手，觸城門閫，以梵清淨八種¶
